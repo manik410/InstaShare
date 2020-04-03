@@ -11,3 +11,6 @@
 
 ### InstaShare
 ![ABC](https://github.com/manik410/InstaShare/blob/master/instashare/assets/img/home.png)
+
+
+![ABC](https://github.com/manik410/InstaShare/blob/master/instashare/assets/img/feed.png)
